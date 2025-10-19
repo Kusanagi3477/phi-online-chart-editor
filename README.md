@@ -1,1 +1,1 @@
-# phigros-online-chart-editor
+# phi-online-chart-editor
